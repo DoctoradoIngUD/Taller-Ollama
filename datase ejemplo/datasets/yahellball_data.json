@@ -1,0 +1,1409 @@
+{
+  "teams": {
+    "Argentina": {
+      "players": [
+        {
+          "name": "Zachary Rios",
+          "strength": 99,
+          "agility": 69,
+          "strategy": 100,
+          "endurance": 94
+        },
+        {
+          "name": "Jonathan Martin",
+          "strength": 86,
+          "agility": 83,
+          "strategy": 78,
+          "endurance": 99
+        },
+        {
+          "name": "Matthew White",
+          "strength": 81,
+          "agility": 91,
+          "strategy": 72,
+          "endurance": 95
+        },
+        {
+          "name": "Richard Fisher",
+          "strength": 78,
+          "agility": 73,
+          "strategy": 69,
+          "endurance": 99
+        },
+        {
+          "name": "Stephanie Harris",
+          "strength": 76,
+          "agility": 84,
+          "strategy": 71,
+          "endurance": 89
+        },
+        {
+          "name": "Sydney Patrick",
+          "strength": 93,
+          "agility": 66,
+          "strategy": 74,
+          "endurance": 79
+        },
+        {
+          "name": "Thomas Fernandez",
+          "strength": 78,
+          "agility": 61,
+          "strategy": 85,
+          "endurance": 82
+        }
+      ]
+    },
+    "Brazil": {
+      "players": [
+        {
+          "name": "Juan Guerrero",
+          "strength": 94,
+          "agility": 84,
+          "strategy": 79,
+          "endurance": 71
+        },
+        {
+          "name": "Jennifer Young",
+          "strength": 98,
+          "agility": 81,
+          "strategy": 54,
+          "endurance": 80
+        },
+        {
+          "name": "Jeffrey Gregory",
+          "strength": 87,
+          "agility": 62,
+          "strategy": 62,
+          "endurance": 93
+        },
+        {
+          "name": "Vanessa Randolph",
+          "strength": 92,
+          "agility": 76,
+          "strategy": 85,
+          "endurance": 89
+        },
+        {
+          "name": "Alyssa Jenkins",
+          "strength": 82,
+          "agility": 63,
+          "strategy": 51,
+          "endurance": 86
+        },
+        {
+          "name": "Chris Pratt",
+          "strength": 76,
+          "agility": 68,
+          "strategy": 76,
+          "endurance": 81
+        },
+        {
+          "name": "Christina Liu",
+          "strength": 92,
+          "agility": 88,
+          "strategy": 77,
+          "endurance": 95
+        }
+      ]
+    },
+    "Canada": {
+      "players": [
+        {
+          "name": "Kevin Hansen",
+          "strength": 70,
+          "agility": 67,
+          "strategy": 96,
+          "endurance": 68
+        },
+        {
+          "name": "Kerry Hamilton",
+          "strength": 90,
+          "agility": 61,
+          "strategy": 73,
+          "endurance": 86
+        },
+        {
+          "name": "Brandon Kelly",
+          "strength": 95,
+          "agility": 86,
+          "strategy": 66,
+          "endurance": 94
+        },
+        {
+          "name": "Kimberly Garcia",
+          "strength": 98,
+          "agility": 91,
+          "strategy": 95,
+          "endurance": 91
+        },
+        {
+          "name": "Bryan Lane",
+          "strength": 86,
+          "agility": 77,
+          "strategy": 63,
+          "endurance": 66
+        },
+        {
+          "name": "Kathryn Bautista",
+          "strength": 76,
+          "agility": 85,
+          "strategy": 63,
+          "endurance": 80
+        },
+        {
+          "name": "Lisa Mitchell",
+          "strength": 77,
+          "agility": 81,
+          "strategy": 67,
+          "endurance": 89
+        }
+      ]
+    },
+    "Germany": {
+      "players": [
+        {
+          "name": "Cynthia Brady",
+          "strength": 85,
+          "agility": 64,
+          "strategy": 80,
+          "endurance": 81
+        },
+        {
+          "name": "Jessica Moore",
+          "strength": 95,
+          "agility": 93,
+          "strategy": 78,
+          "endurance": 70
+        },
+        {
+          "name": "Jessica Johnson",
+          "strength": 95,
+          "agility": 92,
+          "strategy": 61,
+          "endurance": 95
+        },
+        {
+          "name": "Trevor Mills",
+          "strength": 81,
+          "agility": 96,
+          "strategy": 52,
+          "endurance": 84
+        },
+        {
+          "name": "Emily Gonzalez",
+          "strength": 83,
+          "agility": 80,
+          "strategy": 66,
+          "endurance": 99
+        },
+        {
+          "name": "Deborah Graham",
+          "strength": 75,
+          "agility": 97,
+          "strategy": 67,
+          "endurance": 98
+        },
+        {
+          "name": "Kathleen Williams",
+          "strength": 91,
+          "agility": 63,
+          "strategy": 74,
+          "endurance": 93
+        }
+      ]
+    },
+    "France": {
+      "players": [
+        {
+          "name": "Ronald Wilson",
+          "strength": 70,
+          "agility": 67,
+          "strategy": 51,
+          "endurance": 75
+        },
+        {
+          "name": "Andrew Jones",
+          "strength": 96,
+          "agility": 91,
+          "strategy": 55,
+          "endurance": 78
+        },
+        {
+          "name": "Gregory Kennedy",
+          "strength": 81,
+          "agility": 65,
+          "strategy": 68,
+          "endurance": 86
+        },
+        {
+          "name": "Randall Bell",
+          "strength": 83,
+          "agility": 93,
+          "strategy": 95,
+          "endurance": 92
+        },
+        {
+          "name": "Carol Smith",
+          "strength": 80,
+          "agility": 89,
+          "strategy": 51,
+          "endurance": 98
+        },
+        {
+          "name": "Jose Ware",
+          "strength": 90,
+          "agility": 68,
+          "strategy": 60,
+          "endurance": 77
+        },
+        {
+          "name": "Austin Rogers",
+          "strength": 96,
+          "agility": 70,
+          "strategy": 60,
+          "endurance": 83
+        }
+      ]
+    },
+    "Italy": {
+      "players": [
+        {
+          "name": "Brian Lewis",
+          "strength": 82,
+          "agility": 98,
+          "strategy": 96,
+          "endurance": 73
+        },
+        {
+          "name": "Christopher Carter",
+          "strength": 93,
+          "agility": 61,
+          "strategy": 90,
+          "endurance": 91
+        },
+        {
+          "name": "Robert Peters",
+          "strength": 82,
+          "agility": 96,
+          "strategy": 100,
+          "endurance": 79
+        },
+        {
+          "name": "David Smith",
+          "strength": 92,
+          "agility": 70,
+          "strategy": 63,
+          "endurance": 92
+        },
+        {
+          "name": "Ashley Watts",
+          "strength": 71,
+          "agility": 66,
+          "strategy": 63,
+          "endurance": 66
+        },
+        {
+          "name": "Scott Morgan",
+          "strength": 76,
+          "agility": 73,
+          "strategy": 59,
+          "endurance": 97
+        },
+        {
+          "name": "Ann Wise",
+          "strength": 78,
+          "agility": 95,
+          "strategy": 53,
+          "endurance": 74
+        }
+      ]
+    },
+    "Japan": {
+      "players": [
+        {
+          "name": "David Green",
+          "strength": 91,
+          "agility": 94,
+          "strategy": 52,
+          "endurance": 91
+        },
+        {
+          "name": "Theresa Anderson",
+          "strength": 85,
+          "agility": 83,
+          "strategy": 57,
+          "endurance": 74
+        },
+        {
+          "name": "Tina Richards",
+          "strength": 94,
+          "agility": 68,
+          "strategy": 89,
+          "endurance": 95
+        },
+        {
+          "name": "Brittany Kelly",
+          "strength": 79,
+          "agility": 96,
+          "strategy": 93,
+          "endurance": 78
+        },
+        {
+          "name": "Erik Pacheco",
+          "strength": 75,
+          "agility": 68,
+          "strategy": 74,
+          "endurance": 65
+        },
+        {
+          "name": "Michelle Buckley",
+          "strength": 90,
+          "agility": 72,
+          "strategy": 81,
+          "endurance": 69
+        },
+        {
+          "name": "Johnny Lowery",
+          "strength": 77,
+          "agility": 81,
+          "strategy": 91,
+          "endurance": 78
+        }
+      ]
+    },
+    "Australia": {
+      "players": [
+        {
+          "name": "Deborah Ward",
+          "strength": 76,
+          "agility": 93,
+          "strategy": 52,
+          "endurance": 84
+        },
+        {
+          "name": "Timothy Gutierrez",
+          "strength": 80,
+          "agility": 97,
+          "strategy": 72,
+          "endurance": 79
+        },
+        {
+          "name": "Joseph Gomez",
+          "strength": 75,
+          "agility": 86,
+          "strategy": 60,
+          "endurance": 97
+        },
+        {
+          "name": "Melanie Martinez",
+          "strength": 75,
+          "agility": 67,
+          "strategy": 82,
+          "endurance": 98
+        },
+        {
+          "name": "Daniel Diaz",
+          "strength": 85,
+          "agility": 90,
+          "strategy": 56,
+          "endurance": 86
+        },
+        {
+          "name": "Amy James",
+          "strength": 75,
+          "agility": 88,
+          "strategy": 94,
+          "endurance": 78
+        },
+        {
+          "name": "Timothy Vega",
+          "strength": 76,
+          "agility": 62,
+          "strategy": 100,
+          "endurance": 81
+        }
+      ]
+    },
+    "South Africa": {
+      "players": [
+        {
+          "name": "Victoria Brown",
+          "strength": 73,
+          "agility": 69,
+          "strategy": 80,
+          "endurance": 98
+        },
+        {
+          "name": "Timothy Hunter",
+          "strength": 75,
+          "agility": 82,
+          "strategy": 88,
+          "endurance": 85
+        },
+        {
+          "name": "James Choi",
+          "strength": 84,
+          "agility": 85,
+          "strategy": 65,
+          "endurance": 97
+        },
+        {
+          "name": "Katherine Delgado",
+          "strength": 72,
+          "agility": 78,
+          "strategy": 89,
+          "endurance": 99
+        },
+        {
+          "name": "Sandra Smith",
+          "strength": 74,
+          "agility": 61,
+          "strategy": 92,
+          "endurance": 95
+        },
+        {
+          "name": "Maria Jackson",
+          "strength": 95,
+          "agility": 76,
+          "strategy": 70,
+          "endurance": 92
+        },
+        {
+          "name": "Dustin Sampson",
+          "strength": 75,
+          "agility": 80,
+          "strategy": 60,
+          "endurance": 69
+        }
+      ]
+    },
+    "India": {
+      "players": [
+        {
+          "name": "Erica Castillo",
+          "strength": 87,
+          "agility": 95,
+          "strategy": 53,
+          "endurance": 77
+        },
+        {
+          "name": "Mary Turner",
+          "strength": 95,
+          "agility": 83,
+          "strategy": 54,
+          "endurance": 94
+        },
+        {
+          "name": "Rebecca Mitchell",
+          "strength": 89,
+          "agility": 85,
+          "strategy": 81,
+          "endurance": 77
+        },
+        {
+          "name": "Michael Jones",
+          "strength": 73,
+          "agility": 66,
+          "strategy": 55,
+          "endurance": 98
+        },
+        {
+          "name": "Alexandra Pierce",
+          "strength": 79,
+          "agility": 100,
+          "strategy": 52,
+          "endurance": 73
+        },
+        {
+          "name": "Ashley Alvarado",
+          "strength": 72,
+          "agility": 69,
+          "strategy": 92,
+          "endurance": 66
+        },
+        {
+          "name": "Patricia Odom",
+          "strength": 81,
+          "agility": 61,
+          "strategy": 88,
+          "endurance": 80
+        }
+      ]
+    },
+    "Mexico": {
+      "players": [
+        {
+          "name": "Jeffrey Hayes",
+          "strength": 92,
+          "agility": 77,
+          "strategy": 57,
+          "endurance": 80
+        },
+        {
+          "name": "Patrick Martin",
+          "strength": 80,
+          "agility": 83,
+          "strategy": 83,
+          "endurance": 85
+        },
+        {
+          "name": "Emily Snyder",
+          "strength": 72,
+          "agility": 92,
+          "strategy": 50,
+          "endurance": 92
+        },
+        {
+          "name": "Kathryn Davis",
+          "strength": 94,
+          "agility": 99,
+          "strategy": 79,
+          "endurance": 80
+        },
+        {
+          "name": "Brandon Reed",
+          "strength": 81,
+          "agility": 76,
+          "strategy": 90,
+          "endurance": 89
+        },
+        {
+          "name": "Lisa Fisher",
+          "strength": 99,
+          "agility": 77,
+          "strategy": 63,
+          "endurance": 66
+        },
+        {
+          "name": "Tammy Tucker",
+          "strength": 86,
+          "agility": 63,
+          "strategy": 82,
+          "endurance": 78
+        }
+      ]
+    },
+    "Spain": {
+      "players": [
+        {
+          "name": "Michael Waters",
+          "strength": 82,
+          "agility": 77,
+          "strategy": 96,
+          "endurance": 73
+        },
+        {
+          "name": "Kimberly Mccormick",
+          "strength": 91,
+          "agility": 88,
+          "strategy": 92,
+          "endurance": 71
+        },
+        {
+          "name": "Lindsey Hudson",
+          "strength": 70,
+          "agility": 85,
+          "strategy": 66,
+          "endurance": 71
+        },
+        {
+          "name": "Briana Caldwell",
+          "strength": 72,
+          "agility": 78,
+          "strategy": 61,
+          "endurance": 83
+        },
+        {
+          "name": "Heather Sanders",
+          "strength": 74,
+          "agility": 86,
+          "strategy": 97,
+          "endurance": 67
+        },
+        {
+          "name": "Roger Williams",
+          "strength": 100,
+          "agility": 82,
+          "strategy": 96,
+          "endurance": 69
+        },
+        {
+          "name": "Andrew Garcia",
+          "strength": 77,
+          "agility": 89,
+          "strategy": 58,
+          "endurance": 86
+        }
+      ]
+    },
+    "United States": {
+      "players": [
+        {
+          "name": "Thomas Johnson",
+          "strength": 70,
+          "agility": 60,
+          "strategy": 68,
+          "endurance": 70
+        },
+        {
+          "name": "Renee Allen",
+          "strength": 96,
+          "agility": 85,
+          "strategy": 97,
+          "endurance": 99
+        },
+        {
+          "name": "Michael Camacho",
+          "strength": 96,
+          "agility": 90,
+          "strategy": 72,
+          "endurance": 74
+        },
+        {
+          "name": "Charles Colon",
+          "strength": 75,
+          "agility": 86,
+          "strategy": 89,
+          "endurance": 72
+        },
+        {
+          "name": "Sharon Ware MD",
+          "strength": 99,
+          "agility": 77,
+          "strategy": 56,
+          "endurance": 74
+        },
+        {
+          "name": "Terri Bryan",
+          "strength": 71,
+          "agility": 72,
+          "strategy": 86,
+          "endurance": 67
+        },
+        {
+          "name": "Brian Johnson",
+          "strength": 91,
+          "agility": 90,
+          "strategy": 61,
+          "endurance": 98
+        }
+      ]
+    },
+    "United Kingdom": {
+      "players": [
+        {
+          "name": "Cody Cox",
+          "strength": 71,
+          "agility": 75,
+          "strategy": 66,
+          "endurance": 74
+        },
+        {
+          "name": "Catherine Harris",
+          "strength": 77,
+          "agility": 78,
+          "strategy": 94,
+          "endurance": 95
+        },
+        {
+          "name": "Mariah Martin",
+          "strength": 95,
+          "agility": 87,
+          "strategy": 92,
+          "endurance": 78
+        },
+        {
+          "name": "Javier Schultz",
+          "strength": 97,
+          "agility": 100,
+          "strategy": 86,
+          "endurance": 94
+        },
+        {
+          "name": "Tiffany Hood",
+          "strength": 75,
+          "agility": 69,
+          "strategy": 84,
+          "endurance": 90
+        },
+        {
+          "name": "Mr. Craig Collins",
+          "strength": 96,
+          "agility": 66,
+          "strategy": 68,
+          "endurance": 65
+        },
+        {
+          "name": "Timothy Mcdonald",
+          "strength": 89,
+          "agility": 64,
+          "strategy": 68,
+          "endurance": 85
+        }
+      ]
+    },
+    "China": {
+      "players": [
+        {
+          "name": "William Hughes",
+          "strength": 88,
+          "agility": 82,
+          "strategy": 55,
+          "endurance": 96
+        },
+        {
+          "name": "Amanda James",
+          "strength": 91,
+          "agility": 78,
+          "strategy": 68,
+          "endurance": 73
+        },
+        {
+          "name": "Angela Hall",
+          "strength": 86,
+          "agility": 67,
+          "strategy": 91,
+          "endurance": 87
+        },
+        {
+          "name": "Kelly Brown",
+          "strength": 100,
+          "agility": 80,
+          "strategy": 59,
+          "endurance": 77
+        },
+        {
+          "name": "Chad Patel",
+          "strength": 71,
+          "agility": 60,
+          "strategy": 80,
+          "endurance": 89
+        },
+        {
+          "name": "Maria Wood",
+          "strength": 90,
+          "agility": 64,
+          "strategy": 56,
+          "endurance": 77
+        },
+        {
+          "name": "Ashley Griffin",
+          "strength": 78,
+          "agility": 94,
+          "strategy": 96,
+          "endurance": 65
+        }
+      ]
+    },
+    "Norway": {
+      "players": [
+        {
+          "name": "Brandy Lewis",
+          "strength": 82,
+          "agility": 77,
+          "strategy": 90,
+          "endurance": 90
+        },
+        {
+          "name": "Jenny Lewis",
+          "strength": 85,
+          "agility": 66,
+          "strategy": 70,
+          "endurance": 77
+        },
+        {
+          "name": "Ronald Montoya DDS",
+          "strength": 90,
+          "agility": 93,
+          "strategy": 95,
+          "endurance": 76
+        },
+        {
+          "name": "Brian Smith",
+          "strength": 76,
+          "agility": 93,
+          "strategy": 97,
+          "endurance": 81
+        },
+        {
+          "name": "Kathy Bradshaw",
+          "strength": 71,
+          "agility": 70,
+          "strategy": 76,
+          "endurance": 91
+        },
+        {
+          "name": "Brendan White",
+          "strength": 79,
+          "agility": 71,
+          "strategy": 56,
+          "endurance": 72
+        },
+        {
+          "name": "Margaret Williams",
+          "strength": 74,
+          "agility": 97,
+          "strategy": 97,
+          "endurance": 77
+        }
+      ]
+    },
+    "Sweden": {
+      "players": [
+        {
+          "name": "Michael Mahoney",
+          "strength": 89,
+          "agility": 84,
+          "strategy": 71,
+          "endurance": 76
+        },
+        {
+          "name": "Patrick Hess",
+          "strength": 88,
+          "agility": 80,
+          "strategy": 51,
+          "endurance": 94
+        },
+        {
+          "name": "Kathleen Aguilar",
+          "strength": 93,
+          "agility": 86,
+          "strategy": 72,
+          "endurance": 68
+        },
+        {
+          "name": "Craig Jimenez",
+          "strength": 85,
+          "agility": 70,
+          "strategy": 58,
+          "endurance": 70
+        },
+        {
+          "name": "Michael Finley",
+          "strength": 77,
+          "agility": 95,
+          "strategy": 70,
+          "endurance": 81
+        },
+        {
+          "name": "Eric Jones",
+          "strength": 71,
+          "agility": 97,
+          "strategy": 94,
+          "endurance": 90
+        },
+        {
+          "name": "Michael Williams",
+          "strength": 72,
+          "agility": 65,
+          "strategy": 65,
+          "endurance": 90
+        }
+      ]
+    },
+    "Finland": {
+      "players": [
+        {
+          "name": "Autumn Rose",
+          "strength": 74,
+          "agility": 60,
+          "strategy": 60,
+          "endurance": 84
+        },
+        {
+          "name": "Brett Graham",
+          "strength": 94,
+          "agility": 75,
+          "strategy": 69,
+          "endurance": 85
+        },
+        {
+          "name": "Rebecca Gonzales",
+          "strength": 88,
+          "agility": 83,
+          "strategy": 62,
+          "endurance": 65
+        },
+        {
+          "name": "Kelly Robles",
+          "strength": 91,
+          "agility": 60,
+          "strategy": 52,
+          "endurance": 94
+        },
+        {
+          "name": "David Curtis",
+          "strength": 86,
+          "agility": 89,
+          "strategy": 56,
+          "endurance": 98
+        },
+        {
+          "name": "Sarah Anderson",
+          "strength": 79,
+          "agility": 65,
+          "strategy": 100,
+          "endurance": 100
+        },
+        {
+          "name": "Julia Hunter",
+          "strength": 81,
+          "agility": 86,
+          "strategy": 97,
+          "endurance": 84
+        }
+      ]
+    },
+    "Russia": {
+      "players": [
+        {
+          "name": "Carl Lewis",
+          "strength": 73,
+          "agility": 60,
+          "strategy": 69,
+          "endurance": 81
+        },
+        {
+          "name": "Kathy Crosby",
+          "strength": 75,
+          "agility": 70,
+          "strategy": 93,
+          "endurance": 85
+        },
+        {
+          "name": "Andrew Clark",
+          "strength": 78,
+          "agility": 100,
+          "strategy": 53,
+          "endurance": 76
+        },
+        {
+          "name": "Timothy Mason",
+          "strength": 76,
+          "agility": 82,
+          "strategy": 79,
+          "endurance": 78
+        },
+        {
+          "name": "Gilbert Holt",
+          "strength": 99,
+          "agility": 75,
+          "strategy": 63,
+          "endurance": 89
+        },
+        {
+          "name": "David Martinez",
+          "strength": 96,
+          "agility": 73,
+          "strategy": 84,
+          "endurance": 76
+        },
+        {
+          "name": "Samantha Taylor",
+          "strength": 89,
+          "agility": 83,
+          "strategy": 59,
+          "endurance": 96
+        }
+      ]
+    },
+    "Netherlands": {
+      "players": [
+        {
+          "name": "Tiffany Dixon",
+          "strength": 85,
+          "agility": 78,
+          "strategy": 81,
+          "endurance": 69
+        },
+        {
+          "name": "Eric Taylor",
+          "strength": 77,
+          "agility": 82,
+          "strategy": 74,
+          "endurance": 72
+        },
+        {
+          "name": "Jennifer Guerrero",
+          "strength": 78,
+          "agility": 66,
+          "strategy": 53,
+          "endurance": 99
+        },
+        {
+          "name": "Kathy Randall",
+          "strength": 77,
+          "agility": 72,
+          "strategy": 69,
+          "endurance": 95
+        },
+        {
+          "name": "Robert Mason",
+          "strength": 88,
+          "agility": 61,
+          "strategy": 66,
+          "endurance": 90
+        },
+        {
+          "name": "Darryl Novak",
+          "strength": 87,
+          "agility": 69,
+          "strategy": 71,
+          "endurance": 89
+        },
+        {
+          "name": "Terry Chen",
+          "strength": 86,
+          "agility": 99,
+          "strategy": 73,
+          "endurance": 86
+        }
+      ]
+    },
+    "New Zealand": {
+      "players": [
+        {
+          "name": "Nicole Richardson",
+          "strength": 89,
+          "agility": 67,
+          "strategy": 69,
+          "endurance": 92
+        },
+        {
+          "name": "Latasha Wallace",
+          "strength": 77,
+          "agility": 77,
+          "strategy": 60,
+          "endurance": 88
+        },
+        {
+          "name": "Mary Hughes",
+          "strength": 88,
+          "agility": 65,
+          "strategy": 94,
+          "endurance": 79
+        },
+        {
+          "name": "Sydney Nelson",
+          "strength": 82,
+          "agility": 64,
+          "strategy": 75,
+          "endurance": 82
+        },
+        {
+          "name": "Juan Peterson",
+          "strength": 99,
+          "agility": 79,
+          "strategy": 94,
+          "endurance": 83
+        },
+        {
+          "name": "Tracy Jones",
+          "strength": 72,
+          "agility": 94,
+          "strategy": 55,
+          "endurance": 65
+        },
+        {
+          "name": "Mary Bray",
+          "strength": 80,
+          "agility": 98,
+          "strategy": 57,
+          "endurance": 65
+        }
+      ]
+    },
+    "Egypt": {
+      "players": [
+        {
+          "name": "Joseph James",
+          "strength": 73,
+          "agility": 93,
+          "strategy": 77,
+          "endurance": 91
+        },
+        {
+          "name": "Aaron Johnson",
+          "strength": 84,
+          "agility": 63,
+          "strategy": 95,
+          "endurance": 74
+        },
+        {
+          "name": "Michael Shea",
+          "strength": 99,
+          "agility": 84,
+          "strategy": 75,
+          "endurance": 90
+        },
+        {
+          "name": "Angela Saunders",
+          "strength": 74,
+          "agility": 86,
+          "strategy": 95,
+          "endurance": 70
+        },
+        {
+          "name": "Sherri Maynard",
+          "strength": 96,
+          "agility": 80,
+          "strategy": 68,
+          "endurance": 100
+        },
+        {
+          "name": "Mr. Timothy Franklin",
+          "strength": 74,
+          "agility": 81,
+          "strategy": 63,
+          "endurance": 91
+        },
+        {
+          "name": "Patrick Tucker",
+          "strength": 98,
+          "agility": 83,
+          "strategy": 56,
+          "endurance": 93
+        }
+      ]
+    },
+    "Turkey": {
+      "players": [
+        {
+          "name": "Mr. Chris Aguirre",
+          "strength": 78,
+          "agility": 98,
+          "strategy": 51,
+          "endurance": 97
+        },
+        {
+          "name": "Brian Garcia",
+          "strength": 78,
+          "agility": 82,
+          "strategy": 85,
+          "endurance": 73
+        },
+        {
+          "name": "Kathy Peters",
+          "strength": 81,
+          "agility": 63,
+          "strategy": 62,
+          "endurance": 69
+        },
+        {
+          "name": "Jamie Taylor",
+          "strength": 96,
+          "agility": 69,
+          "strategy": 84,
+          "endurance": 88
+        },
+        {
+          "name": "Crystal Murray",
+          "strength": 100,
+          "agility": 100,
+          "strategy": 95,
+          "endurance": 84
+        },
+        {
+          "name": "Joseph Gallegos",
+          "strength": 85,
+          "agility": 60,
+          "strategy": 83,
+          "endurance": 78
+        },
+        {
+          "name": "Frances Thompson",
+          "strength": 70,
+          "agility": 76,
+          "strategy": 61,
+          "endurance": 91
+        }
+      ]
+    }
+  },
+  "championships": [
+    {
+      "year": 1890,
+      "champion": "Australia"
+    },
+    {
+      "year": 1893,
+      "champion": "Germany"
+    },
+    {
+      "year": 1896,
+      "champion": "Argentina"
+    },
+    {
+      "year": 1899,
+      "champion": "United Kingdom"
+    },
+    {
+      "year": 1902,
+      "champion": "Italy"
+    },
+    {
+      "year": 1905,
+      "champion": "New Zealand"
+    },
+    {
+      "year": 1908,
+      "champion": "Canada"
+    },
+    {
+      "year": 1911,
+      "champion": "Spain"
+    },
+    {
+      "year": 1914,
+      "champion": "China"
+    },
+    {
+      "year": 1917,
+      "champion": "New Zealand"
+    },
+    {
+      "year": 1920,
+      "champion": "Japan"
+    },
+    {
+      "year": 1923,
+      "champion": "Norway"
+    },
+    {
+      "year": 1926,
+      "champion": "France"
+    },
+    {
+      "year": 1929,
+      "champion": "Russia"
+    },
+    {
+      "year": 1932,
+      "champion": "Argentina"
+    },
+    {
+      "year": 1935,
+      "champion": "Netherlands"
+    },
+    {
+      "year": 1938,
+      "champion": "Netherlands"
+    },
+    {
+      "year": 1941,
+      "champion": "South Africa"
+    },
+    {
+      "year": 1944,
+      "champion": "France"
+    },
+    {
+      "year": 1947,
+      "champion": "Egypt"
+    },
+    {
+      "year": 1950,
+      "champion": "Mexico"
+    },
+    {
+      "year": 1953,
+      "champion": "United Kingdom"
+    },
+    {
+      "year": 1956,
+      "champion": "Russia"
+    },
+    {
+      "year": 1959,
+      "champion": "Italy"
+    },
+    {
+      "year": 1962,
+      "champion": "Netherlands"
+    },
+    {
+      "year": 1965,
+      "champion": "Russia"
+    },
+    {
+      "year": 1968,
+      "champion": "Norway"
+    },
+    {
+      "year": 1971,
+      "champion": "China"
+    },
+    {
+      "year": 1974,
+      "champion": "United States"
+    },
+    {
+      "year": 1977,
+      "champion": "Turkey"
+    },
+    {
+      "year": 1980,
+      "champion": "Brazil"
+    },
+    {
+      "year": 1983,
+      "champion": "Sweden"
+    },
+    {
+      "year": 1986,
+      "champion": "Turkey"
+    },
+    {
+      "year": 1989,
+      "champion": "South Africa"
+    },
+    {
+      "year": 1992,
+      "champion": "United States"
+    },
+    {
+      "year": 1995,
+      "champion": "Spain"
+    },
+    {
+      "year": 1998,
+      "champion": "Germany"
+    },
+    {
+      "year": 2001,
+      "champion": "Japan"
+    },
+    {
+      "year": 2004,
+      "champion": "France"
+    },
+    {
+      "year": 2007,
+      "champion": "Mexico"
+    },
+    {
+      "year": 2010,
+      "champion": "Norway"
+    },
+    {
+      "year": 2013,
+      "champion": "Canada"
+    },
+    {
+      "year": 2016,
+      "champion": "Russia"
+    },
+    {
+      "year": 2019,
+      "champion": "Netherlands"
+    },
+    {
+      "year": 2022,
+      "champion": "Brazil"
+    },
+    {
+      "year": 2025,
+      "champion": "France"
+    }
+  ]
+}

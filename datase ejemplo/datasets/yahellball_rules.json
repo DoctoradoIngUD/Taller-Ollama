@@ -1,0 +1,11 @@
+{
+  "rules": [
+    "Cada equipo debe tener exactamente 7 jugadores en el campo.",
+    "El balón solo puede ser movido con el torso o extremidades inferiores.",
+    "Los jugadores deben permanecer en posición de cuatro patas durante el juego.",
+    "Cada aro en los vértices del pentágono vale 3 puntos si se anota desde el centro.",
+    "El contacto físico está permitido solo para bloquear el balón, no al jugador.",
+    "El partido dura 3 tiempos de 15 minutos cada uno.",
+    "Si el balón se sale del campo, se reinicia desde el vértice más cercano."
+  ]
+}

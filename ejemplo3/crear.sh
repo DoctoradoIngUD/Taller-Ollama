@@ -1,0 +1,1 @@
+ollama create f1-expert -f Modelfile

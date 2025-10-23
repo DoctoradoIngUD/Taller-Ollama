@@ -1,0 +1,462 @@
+{
+  "1890": {
+    "name": "Amy James",
+    "country": "Australia",
+    "stats": {
+      "strength": 75,
+      "agility": 88,
+      "strategy": 94,
+      "endurance": 78
+    }
+  },
+  "1893": {
+    "name": "Jessica Johnson",
+    "country": "Germany",
+    "stats": {
+      "strength": 95,
+      "agility": 92,
+      "strategy": 61,
+      "endurance": 95
+    }
+  },
+  "1896": {
+    "name": "Zachary Rios",
+    "country": "Argentina",
+    "stats": {
+      "strength": 99,
+      "agility": 69,
+      "strategy": 100,
+      "endurance": 94
+    }
+  },
+  "1899": {
+    "name": "Javier Schultz",
+    "country": "United Kingdom",
+    "stats": {
+      "strength": 97,
+      "agility": 100,
+      "strategy": 86,
+      "endurance": 94
+    }
+  },
+  "1902": {
+    "name": "Robert Peters",
+    "country": "Italy",
+    "stats": {
+      "strength": 82,
+      "agility": 96,
+      "strategy": 100,
+      "endurance": 79
+    }
+  },
+  "1905": {
+    "name": "Juan Peterson",
+    "country": "New Zealand",
+    "stats": {
+      "strength": 99,
+      "agility": 79,
+      "strategy": 94,
+      "endurance": 83
+    }
+  },
+  "1908": {
+    "name": "Kimberly Garcia",
+    "country": "Canada",
+    "stats": {
+      "strength": 98,
+      "agility": 91,
+      "strategy": 95,
+      "endurance": 91
+    }
+  },
+  "1911": {
+    "name": "Roger Williams",
+    "country": "Spain",
+    "stats": {
+      "strength": 100,
+      "agility": 82,
+      "strategy": 96,
+      "endurance": 69
+    }
+  },
+  "1914": {
+    "name": "Ashley Griffin",
+    "country": "China",
+    "stats": {
+      "strength": 78,
+      "agility": 94,
+      "strategy": 96,
+      "endurance": 65
+    }
+  },
+  "1917": {
+    "name": "Juan Peterson",
+    "country": "New Zealand",
+    "stats": {
+      "strength": 99,
+      "agility": 79,
+      "strategy": 94,
+      "endurance": 83
+    }
+  },
+  "1920": {
+    "name": "Tina Richards",
+    "country": "Japan",
+    "stats": {
+      "strength": 94,
+      "agility": 68,
+      "strategy": 89,
+      "endurance": 95
+    }
+  },
+  "1923": {
+    "name": "Ronald Montoya DDS",
+    "country": "Norway",
+    "stats": {
+      "strength": 90,
+      "agility": 93,
+      "strategy": 95,
+      "endurance": 76
+    }
+  },
+  "1926": {
+    "name": "Randall Bell",
+    "country": "France",
+    "stats": {
+      "strength": 83,
+      "agility": 93,
+      "strategy": 95,
+      "endurance": 92
+    }
+  },
+  "1929": {
+    "name": "David Martinez",
+    "country": "Russia",
+    "stats": {
+      "strength": 96,
+      "agility": 73,
+      "strategy": 84,
+      "endurance": 76
+    }
+  },
+  "1932": {
+    "name": "Zachary Rios",
+    "country": "Argentina",
+    "stats": {
+      "strength": 99,
+      "agility": 69,
+      "strategy": 100,
+      "endurance": 94
+    }
+  },
+  "1935": {
+    "name": "Terry Chen",
+    "country": "Netherlands",
+    "stats": {
+      "strength": 86,
+      "agility": 99,
+      "strategy": 73,
+      "endurance": 86
+    }
+  },
+  "1938": {
+    "name": "Terry Chen",
+    "country": "Netherlands",
+    "stats": {
+      "strength": 86,
+      "agility": 99,
+      "strategy": 73,
+      "endurance": 86
+    }
+  },
+  "1941": {
+    "name": "Katherine Delgado",
+    "country": "South Africa",
+    "stats": {
+      "strength": 72,
+      "agility": 78,
+      "strategy": 89,
+      "endurance": 99
+    }
+  },
+  "1944": {
+    "name": "Randall Bell",
+    "country": "France",
+    "stats": {
+      "strength": 83,
+      "agility": 93,
+      "strategy": 95,
+      "endurance": 92
+    }
+  },
+  "1947": {
+    "name": "Michael Shea",
+    "country": "Egypt",
+    "stats": {
+      "strength": 99,
+      "agility": 84,
+      "strategy": 75,
+      "endurance": 90
+    }
+  },
+  "1950": {
+    "name": "Kathryn Davis",
+    "country": "Mexico",
+    "stats": {
+      "strength": 94,
+      "agility": 99,
+      "strategy": 79,
+      "endurance": 80
+    }
+  },
+  "1953": {
+    "name": "Javier Schultz",
+    "country": "United Kingdom",
+    "stats": {
+      "strength": 97,
+      "agility": 100,
+      "strategy": 86,
+      "endurance": 94
+    }
+  },
+  "1956": {
+    "name": "David Martinez",
+    "country": "Russia",
+    "stats": {
+      "strength": 96,
+      "agility": 73,
+      "strategy": 84,
+      "endurance": 76
+    }
+  },
+  "1959": {
+    "name": "Robert Peters",
+    "country": "Italy",
+    "stats": {
+      "strength": 82,
+      "agility": 96,
+      "strategy": 100,
+      "endurance": 79
+    }
+  },
+  "1962": {
+    "name": "Terry Chen",
+    "country": "Netherlands",
+    "stats": {
+      "strength": 86,
+      "agility": 99,
+      "strategy": 73,
+      "endurance": 86
+    }
+  },
+  "1965": {
+    "name": "David Martinez",
+    "country": "Russia",
+    "stats": {
+      "strength": 96,
+      "agility": 73,
+      "strategy": 84,
+      "endurance": 76
+    }
+  },
+  "1968": {
+    "name": "Ronald Montoya DDS",
+    "country": "Norway",
+    "stats": {
+      "strength": 90,
+      "agility": 93,
+      "strategy": 95,
+      "endurance": 76
+    }
+  },
+  "1971": {
+    "name": "Ashley Griffin",
+    "country": "China",
+    "stats": {
+      "strength": 78,
+      "agility": 94,
+      "strategy": 96,
+      "endurance": 65
+    }
+  },
+  "1974": {
+    "name": "Renee Allen",
+    "country": "United States",
+    "stats": {
+      "strength": 96,
+      "agility": 85,
+      "strategy": 97,
+      "endurance": 99
+    }
+  },
+  "1977": {
+    "name": "Crystal Murray",
+    "country": "Turkey",
+    "stats": {
+      "strength": 100,
+      "agility": 100,
+      "strategy": 95,
+      "endurance": 84
+    }
+  },
+  "1980": {
+    "name": "Christina Liu",
+    "country": "Brazil",
+    "stats": {
+      "strength": 92,
+      "agility": 88,
+      "strategy": 77,
+      "endurance": 95
+    }
+  },
+  "1983": {
+    "name": "Eric Jones",
+    "country": "Sweden",
+    "stats": {
+      "strength": 71,
+      "agility": 97,
+      "strategy": 94,
+      "endurance": 90
+    }
+  },
+  "1986": {
+    "name": "Crystal Murray",
+    "country": "Turkey",
+    "stats": {
+      "strength": 100,
+      "agility": 100,
+      "strategy": 95,
+      "endurance": 84
+    }
+  },
+  "1989": {
+    "name": "Katherine Delgado",
+    "country": "South Africa",
+    "stats": {
+      "strength": 72,
+      "agility": 78,
+      "strategy": 89,
+      "endurance": 99
+    }
+  },
+  "1992": {
+    "name": "Renee Allen",
+    "country": "United States",
+    "stats": {
+      "strength": 96,
+      "agility": 85,
+      "strategy": 97,
+      "endurance": 99
+    }
+  },
+  "1995": {
+    "name": "Roger Williams",
+    "country": "Spain",
+    "stats": {
+      "strength": 100,
+      "agility": 82,
+      "strategy": 96,
+      "endurance": 69
+    }
+  },
+  "1998": {
+    "name": "Jessica Johnson",
+    "country": "Germany",
+    "stats": {
+      "strength": 95,
+      "agility": 92,
+      "strategy": 61,
+      "endurance": 95
+    }
+  },
+  "2001": {
+    "name": "Tina Richards",
+    "country": "Japan",
+    "stats": {
+      "strength": 94,
+      "agility": 68,
+      "strategy": 89,
+      "endurance": 95
+    }
+  },
+  "2004": {
+    "name": "Randall Bell",
+    "country": "France",
+    "stats": {
+      "strength": 83,
+      "agility": 93,
+      "strategy": 95,
+      "endurance": 92
+    }
+  },
+  "2007": {
+    "name": "Kathryn Davis",
+    "country": "Mexico",
+    "stats": {
+      "strength": 94,
+      "agility": 99,
+      "strategy": 79,
+      "endurance": 80
+    }
+  },
+  "2010": {
+    "name": "Ronald Montoya DDS",
+    "country": "Norway",
+    "stats": {
+      "strength": 90,
+      "agility": 93,
+      "strategy": 95,
+      "endurance": 76
+    }
+  },
+  "2013": {
+    "name": "Kimberly Garcia",
+    "country": "Canada",
+    "stats": {
+      "strength": 98,
+      "agility": 91,
+      "strategy": 95,
+      "endurance": 91
+    }
+  },
+  "2016": {
+    "name": "David Martinez",
+    "country": "Russia",
+    "stats": {
+      "strength": 96,
+      "agility": 73,
+      "strategy": 84,
+      "endurance": 76
+    }
+  },
+  "2019": {
+    "name": "Terry Chen",
+    "country": "Netherlands",
+    "stats": {
+      "strength": 86,
+      "agility": 99,
+      "strategy": 73,
+      "endurance": 86
+    }
+  },
+  "2022": {
+    "name": "Christina Liu",
+    "country": "Brazil",
+    "stats": {
+      "strength": 92,
+      "agility": 88,
+      "strategy": 77,
+      "endurance": 95
+    }
+  },
+  "2025": {
+    "name": "Randall Bell",
+    "country": "France",
+    "stats": {
+      "strength": 83,
+      "agility": 93,
+      "strategy": 95,
+      "endurance": 92
+    }
+  }
+}

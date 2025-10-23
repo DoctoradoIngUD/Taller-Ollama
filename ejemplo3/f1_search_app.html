@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>F1 Race Winners Search</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    input { margin: 5px; padding: 5px; }
+    button { padding: 5px 10px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background-color: #f2f2f2; }
+  </style>
+</head>
+<body>
+  <h2>Buscar Ganadores de Fórmula 1</h2>
+  <label>Año: <input type="text" id="year"></label>
+  <label>Gran Premio: <input type="text" id="grand_prix"></label>
+  <label>Piloto: <input type="text" id="driver"></label>
+  <button onclick="searchF1()">Buscar</button>
+
+  <table id="results">
+    <thead>
+      <tr>
+        <th>Fecha</th>
+        <th>Gran Premio</th>
+        <th>Circuito</th>
+        <th>Ganador</th>
+        <th>Equipo</th>
+        <th>Tiempo</th>
+        <th>Vueltas</th>
+        <th>Año</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    function searchF1() {
+      const year = document.getElementById('year').value;
+      const grandPrix = document.getElementById('grand_prix').value;
+      const driver = document.getElementById('driver').value;
+
+      let url = '/search?';
+      if (year) url += `year=${year}&`;
+      if (grandPrix) url += `grand_prix=${grandPrix}&`;
+      if (driver) url += `driver=${driver}`;
+
+      fetch(url)
+        .then(response => response.json())
+        .then(data => {
+          const tbody = document.querySelector('#results tbody');
+          tbody.innerHTML = '';
+          data.forEach(row => {
+            const tr = document.createElement('tr');
+            tr.innerHTML = `
+              <td>${row.date}</td>
+              <td>${row.grand_prix}</td>
+              <td>${row.circuit}</td>
+              <td>${row.winner_name}</td>
+              <td>${row.team}</td>
+              <td>${row.time}</td>
+              <td>${row.laps}</td>
+              <td>${row.year}</td>
+            `;
+            tbody.appendChild(tr);
+          });
+        });
+    }
+  </script>
+</body>
+</html>

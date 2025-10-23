@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Chat con LLaMA</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; padding: 20px; }
+    #chatbox { width: 80%; max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2); }
+    #messages { height: 400px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; border-radius: 5px; margin-bottom: 10px; background: #fafafa; }
+    .msg { margin: 5px 0; padding: 8px 12px; border-radius: 8px; }
+    .user { background: #007BFF; color: white; text-align: right; }
+    .bot { background: #e4e4e4; color: black; text-align: left; }
+    #input { display: flex; }
+    #question { flex: 1; padding: 10px; border: 1px solid #ccc; border-radius: 5px; }
+    #send { padding: 10px; margin-left: 10px; background: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer; }
+    #send:hover { background: #0056b3; }
+  </style>
+</head>
+<body>
+  <div id="chatbox">
+    <h2>💬 Chat con LLaMA </h2>
+    <div id="messages"></div>
+    <div id="input">
+      <input id="question" type="text" placeholder="Escribe tu pregunta..." />
+      <button id="send">Enviar</button>
+    </div>
+  </div>
+
+  <script>
+    const messages = document.getElementById("messages");
+    const input = document.getElementById("question");
+    const sendBtn = document.getElementById("send");
+
+    function addMessage(text, sender) {
+      const div = document.createElement("div");
+      div.classList.add("msg", sender);
+      div.textContent = text;
+      messages.appendChild(div);
+      messages.scrollTop = messages.scrollHeight;
+    }
+
+    async function sendMessage() {
+      const question = input.value.trim();
+      if (!question) return;
+
+      addMessage(question, "user");
+      input.value = "";
+
+      const response = await fetch("/ask", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question })
+      });
+
+      const data = await response.json();
+      addMessage(data.answer, "bot");
+    }
+
+    sendBtn.addEventListener("click", sendMessage);
+    input.addEventListener("keypress", e => {
+      if (e.key === "Enter") sendMessage();
+    });
+  </script>
+</body>
+</html>
